@@ -1,0 +1,20 @@
+Pivot table outputs summarizing the Male and Female counts in Juvenile Justice facilities and Magnet schools revealed:
+
+1. Significantly smaller population of students have been enrolled in the Juvernile Justice facilities
+2. Majority of the students are Male in the Juvenile Justice facilites
+3. About 8% of the total students have been enrolled in Magnet Schools
+4. Magnet schools have equal proportion of Male and Female students
+
+Comparison of race and gender student enrollment percentage to the overall US population:
+
+1. Gender ratio (Male:Female) is more or less 1:1
+2. Hispanic student enrollment percentage is ~10% higher than overall US population Hispanic percentage, correspondingly white student enrollment percentage is ~10% lower than the overall US population white percentage
+
+There are quite a few interesting angles you could explore:
+
+Look into expulsions, which is when students are kicked out of school permanently. Columns such as SCH_DISCWODIS_EXPWOE_HI_M and TOT_DISCWODIS_EXPZT_F contain information on expulsions.
+Explore gender and race differences in SAT scores. Columns such as SCH_SATACT_HI_M contain this information.
+Figure out the racial and gender breakdown at different types of schools, such as magnet schools.
+Look into how many students are in gifted and talented or advanced placement classes.
+See how racial differences in enrollment change from preschool to high school.
+Investigate school bullying. This information is contained in columns like SCH_HBDISCIPLINED_DIS_HI_M.
